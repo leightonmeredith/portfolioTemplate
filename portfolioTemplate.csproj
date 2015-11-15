@@ -66,6 +66,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\images\shepherd_logo.JPG" />
     <Content Include="packages.config" />
     <Content Include="assets\css\style.scss" />
     <None Include="Web.Debug.config">
@@ -80,22 +81,7 @@
     <Content Include="assets\css\bootstrap.min.css" />
     <Content Include="assets\css\style.css" />
     <Content Include="assets\images\banner.jpg" />
-    <Content Include="assets\images\blog-slider1.jpg" />
-    <Content Include="assets\images\blog-slider2.jpg" />
-    <Content Include="assets\images\blog-slider3.jpg" />
-    <Content Include="assets\images\blog1.jpg" />
-    <Content Include="assets\images\blog2.jpg" />
-    <Content Include="assets\images\blog3.jpg" />
-    <Content Include="assets\images\logo-white.png" />
-    <Content Include="assets\images\logo.png" />
     <Content Include="assets\images\make-room-logo.png" />
-    <Content Include="assets\images\member.jpg" />
-    <Content Include="assets\images\portfolio1.jpg" />
-    <Content Include="assets\images\portfolio2.jpg" />
-    <Content Include="assets\images\portfolio3.jpg" />
-    <Content Include="assets\images\portfolio4.jpg" />
-    <Content Include="assets\images\portfolio5.jpg" />
-    <Content Include="assets\images\portfolio6.jpg" />
     <Content Include="assets\js\blank.gif" />
     <Content Include="assets\js\bootstrap.min.js" />
     <Content Include="assets\js\fancybox_loading%402x.gif" />
