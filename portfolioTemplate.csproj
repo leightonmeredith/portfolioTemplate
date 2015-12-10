@@ -66,9 +66,24 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="angularTest.html" />
+    <Content Include="assets\images\me.jpg" />
+    <Content Include="assets\images\me_freestyle.jpg" />
+    <Content Include="assets\images\me_machine.jpg" />
+    <Content Include="assets\images\reference.JPG" />
     <Content Include="assets\images\shepherd_logo.JPG" />
+    <Content Include="example.js" />
+    <Content Include="menuLinks\about\aboutService.js" />
+    <Content Include="menuLinks\experience\experienceService.js" />
+    <Content Include="menuLinks\indexCtrl.js" />
+    <Content Include="menuLinks\reference\referenceService.js" />
+    <Content Include="menuLinks\skill\skillService.js" />
     <Content Include="packages.config" />
     <Content Include="assets\css\style.scss" />
+    <Content Include="Scripts\angular-mocks.js" />
+    <Content Include="Scripts\angular.js" />
+    <Content Include="Scripts\angular.min.js" />
+    <Content Include="Scripts\angular.min.js.map" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -107,6 +122,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="menuLinks\home\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
