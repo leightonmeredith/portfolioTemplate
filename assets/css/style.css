@@ -522,6 +522,16 @@ h1 {
     border-radius: 50px;
 }
 
+.icon-instagram-circle {
+    background: #55acee;
+    color: #fff;
+    width: 2em;
+    height: 2em;
+    line-height: 2em;
+    text-align: center;
+    border-radius: 50px;
+}
+
 .icon-facebook-circle {
     background: #3b5998;
     color: #fff;
